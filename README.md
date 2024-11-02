@@ -1,6 +1,6 @@
 # LekLink Web Application
 
-A brief description of your project goes here. Explain what the project does and its main features.
+LekLink is a platform designed to simplify the scheduling of lecture links and the management of lecture recordings for academics. It provides an intuitive interface for educators to organize virtual class links and capture sessions, enhancing accessibility to course materials. This is the part of the project I contributed to, which includes user management features such as login, signup, and profile management, as well as lecture recording management for efficiently organizing and reviewing recorded lectures.
 
 ## Table of Contents
 
@@ -65,25 +65,27 @@ Before you begin, ensure you have met the following requirements:
 
 5. **Git**: [Download Git](https://git-scm.com/downloads)
 
-## Clone the Repository
+## Installation
 
-To clone the repository, run the following command in your terminal:
+1. **Clone the repository:**
 
-git clone https://github.com/PamudiNaveesha/LekLink_Web_Application.git
+      ```bash
+      git clone https://github.com/PamudiNaveesha/LekLink_Web_Application.git
+      cd LekLink_Web_Application
 
-## Navigate to the Project Directory
+2. **Install dependencies:**
 
-cd LekLink_Web_Application
+   1. **For the backend**
 
-## Install Dependencies
+      ```bash
+      cd BACKEND
+      npm install
 
-#### For the backend
-- cd BACKEND
-- npm install
+   2. **For the frontend**
 
-#### For the frontend
-- cd frontend
-- npm install
+      ```bash
+      cd frontend
+      npm install
 
 ## Set Up Environment Variables
 
@@ -98,10 +100,14 @@ cd LekLink_Web_Application
   
 ## Run the Project
 
-#### Start the backend server
-- cd BACKEND
-- npm run dev
+   1. **For the backend**
 
-#### Start the frontend application
-- cd frontend
-- npm start 
+      ```bash
+      cd BACKEND
+      npm run dev
+
+   2. **For the frontend**
+
+      ```bash
+      cd frontend
+      npm start 
