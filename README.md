@@ -16,7 +16,7 @@ A brief description of your project goes here. Explain what the project does and
 ## Project Interfaces
 
 ### Login page
-![Screenshot 1](screenshots/screenshot1.JPG)
+![Screenshot 1](screenshots/screenshot1.png)
 
 ### SignUp View
 ![Screenshot 2](screenshots/screenshot2.png)
