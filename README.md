@@ -18,7 +18,7 @@ A brief description of your project goes here. Explain what the project does and
 ### Login page
 ![Screenshot 1](screenshots/screenshot1.png)
 
-### SignUp View
+### SignUp page
 ![Screenshot 2](screenshots/screenshot2.png)
 
 ### User Profile page
