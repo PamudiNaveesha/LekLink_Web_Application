@@ -7,9 +7,7 @@ LekLink is a platform designed to simplify the scheduling of lecture links and t
 - [Project Interfaces](#project-interfaces)
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
-- [Clone the Repository](#clone-the-repository)
-- [Navigate to the Project Directory](#navigate-to-the-project-directory)
-- [Install Dependencies](#install-dependencies)
+- [Installation](#installation)
 - [Set Up Environment Variables](#set-up-environment-variables)
 - [Run the Project](#run-the-project)
 
