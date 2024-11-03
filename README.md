@@ -14,7 +14,7 @@ LekLink is a platform designed to simplify the scheduling of lecture links and t
 ## Project Interfaces
 
 ### Login page
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](frontend/screenshots/screenshot1.png)
 
 ### SignUp page
 ![Screenshot 2](screenshots/screenshot2.png)
