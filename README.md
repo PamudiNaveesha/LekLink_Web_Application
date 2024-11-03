@@ -17,25 +17,25 @@ LekLink is a platform designed to simplify the scheduling of lecture links and t
 ![Screenshot 1](frontend/screenshots/screenshot1.png)
 
 ### SignUp page
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](frontend/screenshots/screenshot2.png)
 
 ### User Profile page
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 3](frontend/screenshots/screenshot3.png)
 
 ### Update Profile page
-![Screenshot 4](screenshots/screenshot4.png)
+![Screenshot 4](frontend/screenshots/screenshot4.png)
 
 ### Lecture Recordings page Student View
-![Screenshot 5](screenshots/screenshot5.png)
+![Screenshot 5](frontend/screenshots/screenshot5.png)
 
 ### Lecture Recordings page Admin View
-![Screenshot 6](screenshots/screenshot6.png)
+![Screenshot 6](frontend/screenshots/screenshot6.png)
 
 ### Add Lecture Recordings page
-![Screenshot 7](screenshots/screenshot7.png)
+![Screenshot 7](frontend/screenshots/screenshot7.png)
 
 ### Generate Report page
-![Screenshot 8](screenshots/screenshot8.png)
+![Screenshot 8](frontend/screenshots/screenshot8.png)
 
 ## Technologies Used
 
